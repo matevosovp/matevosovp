@@ -1,16 +1,21 @@
-## Hi there 👋
+# Павел Матевосов
 
-<!--
-**matevosovp/matevosovp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML / Data Science инженер (начинающий). Учусь в РАНХиГС x Яндекс (магистратура Data Science в экономике, 2024–2026).
 
-Here are some ideas to get you started:
+## Витринные проекты (end-to-end MLOps на кейсе недвижимости)
+1) Airflow ETL + DVC: сбор и очистка датасета, обучение baseline и выгрузка артефактов  
+- https://github.com/matevosovp/Airflow-project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2) MLflow Tracking + Model Registry: воспроизводимые эксперименты, фичи, отбор, тюнинг  
+- https://github.com/matevosovp/Mlflow-project
+
+3) Продакшен сервис: FastAPI + Docker Compose + Prometheus + Grafana (наблюдаемость)  
+- https://github.com/matevosovp/ML-model_deployment_in_a_cloud_infrastructure
+
+## Стек
+Python, SQL, Git, Docker, Airflow, MLflow, CatBoost, Optuna, FastAPI
+
+## Контакты
+Email: matevosovp@gmail.com  
+Telegram: @SapientiaVincit
+
