@@ -2,7 +2,7 @@
 
 ML / Data Science инженер (начинающий). Учусь в РАНХиГС x Яндекс (магистратура Data Science в экономике, 2024–2026).
 
-## Витринные проекты (end-to-end MLOps на кейсе недвижимости)
+## Витринные проекты (end-to-end проект на кейсе недвижимости)
 1) Airflow ETL + DVC: сбор и очистка датасета, обучение baseline и выгрузка артефактов  
 - https://github.com/matevosovp/Airflow-project
 
