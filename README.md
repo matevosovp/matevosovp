@@ -12,7 +12,7 @@ https://github.com/matevosovp/Mlflow-project
 3) **Продакшен сервис**: FastAPI + Docker Compose + Prometheus + Grafana (наблюдаемость)  
 https://github.com/matevosovp/ML-model_deployment_in_a_cloud_infrastructure
 
-4) **Dota 2: предсказание победы Radiant**: EDA, feature engineering, CV, CatBoost, Optuna, ROC-AUC  
+4) **Data Science проект. Dota 2: предсказание победы Radiant**: EDA, feature engineering, CV, CatBoost, Optuna, ROC-AUC  
 https://github.com/matevosovp/Dota-2-winner-prediction
 
 ## Стек
