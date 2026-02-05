@@ -19,6 +19,5 @@ https://github.com/matevosovp/Dota-2-winner-prediction
 Python, SQL, Git, Docker, Airflow, MLflow, CatBoost, Optuna, FastAPI
 
 ## Контакты
-Email: matevosovp@gmail.com  
-Telegram: @SapientiaVincit
+Email: matevosovp@gmail.com
 
