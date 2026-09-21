@@ -53,8 +53,6 @@ python -m pytest -q
 
 Для нейросетевых примеров: `python -m pip install -r requirements-dl.txt`. Проверки используют синтетические данные; команды для реальных данных приведены в описаниях проектов.
 
-[![Portfolio checks](https://github.com/matevosovp/matevosovp/actions/workflows/portfolio-checks.yml/badge.svg)](https://github.com/matevosovp/matevosovp/actions/workflows/portfolio-checks.yml)
-
 <details>
 <summary>English summary</summary>
 
