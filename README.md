@@ -4,7 +4,6 @@
 
 Строю ML-решения от анализа данных и валидации до API, контейнеризации и мониторинга. Основные направления: рекомендательные системы, табличный ML, обработка текстов и документов. Есть практический опыт PyTorch и CLIP, временных рядов и эконометрики.
 
-**Data Science в экономике, РАНХиГС** · **Chemical Engineering, University of Manchester** · Английский **C2** · Москва
 
 [Telegram](https://t.me/SapientiaVincit) · [Email](mailto:pmatevosov@yandex.ru) · [Карта проектов](projects/README.md)
 
